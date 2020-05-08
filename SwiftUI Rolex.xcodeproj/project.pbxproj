@@ -14,6 +14,7 @@
 		9059A38724647DEA00908299 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9059A38624647DEA00908299 /* Preview Assets.xcassets */; };
 		9059A38A24647DEA00908299 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9059A38824647DEA00908299 /* LaunchScreen.storyboard */; };
 		9059A3922464E49200908299 /* TestTimeCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9059A3912464E49200908299 /* TestTimeCalc.swift */; };
+		9076164B2465FF65002EF831 /* Asset1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9076164A2465FF65002EF831 /* Asset1.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9059A38924647DEA00908299 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9059A38B24647DEA00908299 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9059A3912464E49200908299 /* TestTimeCalc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTimeCalc.swift; sourceTree = "<group>"; };
+		9076164A2465FF65002EF831 /* Asset1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Asset1.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9059A38124647DE700908299 /* ContentView.swift */,
 				9059A3912464E49200908299 /* TestTimeCalc.swift */,
 				9059A38324647DEA00908299 /* Assets.xcassets */,
+				9076164A2465FF65002EF831 /* Asset1.xcassets */,
 				9059A38824647DEA00908299 /* LaunchScreen.storyboard */,
 				9059A38B24647DEA00908299 /* Info.plist */,
 				9059A38524647DEA00908299 /* Preview Content */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9076164B2465FF65002EF831 /* Asset1.xcassets in Resources */,
 				9059A38A24647DEA00908299 /* LaunchScreen.storyboard in Resources */,
 				9059A38724647DEA00908299 /* Preview Assets.xcassets in Resources */,
 				9059A38424647DEA00908299 /* Assets.xcassets in Resources */,

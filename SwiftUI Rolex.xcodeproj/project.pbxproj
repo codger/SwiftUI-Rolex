@@ -13,6 +13,7 @@
 		9059A38424647DEA00908299 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9059A38324647DEA00908299 /* Assets.xcassets */; };
 		9059A38724647DEA00908299 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9059A38624647DEA00908299 /* Preview Assets.xcassets */; };
 		9059A38A24647DEA00908299 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9059A38824647DEA00908299 /* LaunchScreen.storyboard */; };
+		9059A3922464E49200908299 /* TestTimeCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9059A3912464E49200908299 /* TestTimeCalc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9059A38624647DEA00908299 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9059A38924647DEA00908299 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9059A38B24647DEA00908299 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9059A3912464E49200908299 /* TestTimeCalc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTimeCalc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9059A37D24647DE700908299 /* AppDelegate.swift */,
 				9059A37F24647DE700908299 /* SceneDelegate.swift */,
 				9059A38124647DE700908299 /* ContentView.swift */,
+				9059A3912464E49200908299 /* TestTimeCalc.swift */,
 				9059A38324647DEA00908299 /* Assets.xcassets */,
 				9059A38824647DEA00908299 /* LaunchScreen.storyboard */,
 				9059A38B24647DEA00908299 /* Info.plist */,
@@ -149,6 +152,7 @@
 				9059A37E24647DE700908299 /* AppDelegate.swift in Sources */,
 				9059A38024647DE700908299 /* SceneDelegate.swift in Sources */,
 				9059A38224647DE700908299 /* ContentView.swift in Sources */,
+				9059A3922464E49200908299 /* TestTimeCalc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
